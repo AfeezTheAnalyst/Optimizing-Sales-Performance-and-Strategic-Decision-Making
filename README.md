@@ -22,7 +22,7 @@ This sales report project aims to provide insights and answers to key business q
 
 ### Methodology
 
-* Data analysis and visualization using [Microsoft Office Excel 365 with integration of Power Query Capabilities for data modelling]
+* Data analysis and visualization using [__Microsoft Office Excel 365 with integration of Power Query Capabilities for data modelling__]
 * Formulas and pivot tables for data manipulation and aggregation
 * Data mining techniques for anomaly detection
 * Data visualization for effective communication of insights
