@@ -46,7 +46,16 @@ This sales report project aims to provide insights and answers to key business q
 * Business Acumen: Understanding business needs and translating data insights into actionable recommendations.
 * Problem-Solving: Identifying areas for improvement and opportunities for growth.
 * Communication: Effectively presenting complex data insights to stakeholders.
-* Technical Skills: Proficiency in tools and software used for data analysis and visualization (e.g., Excel, R, Python, Tableau).
+* Technical Skills: Proficiency in tools and software used for data analysis and visualization with Excel 365.
+     * __Formulas (Functions):__
+     * XLOOKUP      * COUNT
+     * SUM          * COUNTIFS
+     * SUMIFS       * COUNTBLANK
+     * AVEFRAGE     * MEDIAN
+     * AVERAGEIFS   * MIN
+     * QUARTILES    * RANGE
+     * UNIQUE       * SORTBY
+     * IF
 * Critical Thinking: Interpreting data, identifying patterns, and making informed decisions.
 
 
