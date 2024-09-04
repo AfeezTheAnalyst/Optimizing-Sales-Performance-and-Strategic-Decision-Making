@@ -84,7 +84,7 @@ __Exploring some functions__
 
 ---
 
-### **Interpretation of the Sales Data Structure using somee functions:**
+### **Interpretation of the Sales Data Structure using some functions:**
 
 #### 1. **Average (Mean):**
    - **Sales**: 4,136.23
@@ -138,4 +138,7 @@ __Exploring some functions__
 - **Skewness:** The data shows a right-skewed distribution with some high-value sales pulling up the average.
 - **Quartile Insights:** Most transactions (75%) have sales below 6,245.75, with fewer high-value sales influencing the upper end of the distribution.
 - **Product Variety:** A total of 22 unique products shows a moderate diversity in the products sold.
+
+  __erform exploratory data analysis (EDA) to understand the data using conditional formatting__
+==============================
 
