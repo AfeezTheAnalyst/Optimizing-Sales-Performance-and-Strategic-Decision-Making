@@ -1,7 +1,7 @@
-### Optimizing-Sales-Performance-and-Strategic-Decision-Making
+# Optimizing-Sales-Performance-and-Strategic-Decision-Making
 
 ![](intro_image1.jpg)  
-
+=====================
 **Project Descriptions**  
 This sales report project aims to provide insights and answers to key business questions through data analysis. The project explores a dataset of sales information to uncover trends, patterns, and anomalies, and to inform business decisions.
 
