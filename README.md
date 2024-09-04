@@ -4,7 +4,7 @@
 
 *Project Descriptions*  
 =====================
-This sales report project aims to provide insights and answers to key business questions through data analysis. The project explores a dataset of sales information to uncover trends, patterns, and anomalies, and to inform business decisions. ![Link to the datase](https://www.kaggle.com/datasets/afolabiraymond/sales-data)
+This sales report project aims to provide insights and answers to key business questions through data analysis. The project explores a dataset of sales information to uncover trends, patterns, and anomalies, and to inform business decisions. [Link to the datase](https://www.kaggle.com/datasets/afolabiraymond/sales-data)
 
 ### Objectives
 
