@@ -4,7 +4,7 @@
 
 *Project Descriptions*  
 =====================
-This sales report project aims to provide insights and answers to key business questions through data analysis. The project explores a dataset of sales information to uncover trends, patterns, and anomalies, and to inform business decisions.
+This sales report project aims to provide insights and answers to key business questions through data analysis. The project explores a dataset of sales information to uncover trends, patterns, and anomalies, and to inform business decisions. ![Link to the datase](https://www.kaggle.com/datasets/afolabiraymond/sales-data)
 
 ### Objectives
 
@@ -47,15 +47,7 @@ This sales report project aims to provide insights and answers to key business q
 * Problem-Solving: Identifying areas for improvement and opportunities for growth.
 * Communication: Effectively presenting complex data insights to stakeholders.
 * Technical Skills: Proficiency in tools and software used for data analysis and visualization with Excel 365.
-     * __Formulas (Functions):__
-     * XLOOKUP      * COUNT
-     * SUM          * COUNTIFS
-     * SUMIFS       * COUNTBLANK
-     * AVEFRAGE     * MEDIAN
-     * AVERAGEIFS   * MIN
-     * QUARTILES    * RANGE
-     * UNIQUE       * SORTBY
-     * IF
+     * __Formulas (Functions): XLOOKUP, SUM, SUMIFS, AVERAGE, AVERAGEIFS, COUNT, COUNTIFS, COUNTBLANK, QUARTILES, RANGE, MIN, MAX, RANGE, UNIQUE, SORTBY, and IF.
 * Critical Thinking: Interpreting data, identifying patterns, and making informed decisions.
 
 
