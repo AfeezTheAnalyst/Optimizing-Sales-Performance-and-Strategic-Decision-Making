@@ -54,9 +54,5 @@ This sales report project aims to provide insights and answers to key business q
  
 __Exploring some functions__
 ==============================
-The first thing is ensure that our dataset is complete without any missing values, the clean name of the features, right data types, and well formatted records.
-Next, we'll convert the dataset to a Table to ensure flexibility. For the pupose of this project, we'll give this Table a name called: **Data**.
+![Quick Statistics](image1.png)
 
-* **Definition:** The average is calculated by adding up all the values in a dataset and dividing the sum by the number of values.
-* **Formula in Excel:** =AVERAGE(data)
-* **Interpretation:** The average gives you a general idea of the overall level of sales. However, it can be influenced by extremely high or low values (outliers). For example, if we have one or two very high sales figures, they can raise the average, making it seem like sales are generally higher than they actually are.
