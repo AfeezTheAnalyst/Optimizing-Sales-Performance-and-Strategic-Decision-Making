@@ -139,6 +139,6 @@ __Exploring some functions__
 - **Quartile Insights:** Most transactions (75%) have sales below 6,245.75, with fewer high-value sales influencing the upper end of the distribution.
 - **Product Variety:** A total of 22 unique products shows a moderate diversity in the products sold.
   
-__erform exploratory data analysis (EDA) to understand the data using conditional formatting__
+__Exploratory Data Analysis (EDA) with Conditional Formatting__
 ===============================================================================================
 
