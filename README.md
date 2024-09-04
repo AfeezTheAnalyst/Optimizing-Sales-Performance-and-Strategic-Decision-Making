@@ -52,7 +52,7 @@ This sales report project aims to provide insights and answers to key business q
  
  ### **SOLUTIONS**  
  
-**Exploring some functions**  
+<span style="font-size: 1.2em;">*Exploring some functions*</span>
 The first thing is ensure that our dataset is complete without any missing values, the clean name of the features, right data types, and well formatted records.
 Next, we'll convert the dataset to a Table to ensure flexibility. For the pupose of this project, we'll give this Table a name called: **Data**.
 
