@@ -50,9 +50,9 @@ This sales report project aims to provide insights and answers to key business q
 * Critical Thinking: Interpreting data, identifying patterns, and making informed decisions.
 
  
- ### SOLUTIONS  
+ ### **SOLUTIONS**  
  
-Exploring some functions  
+**Exploring some functions**  
 The first thing is ensure that our dataset is complete without any missing values, the clean name of the features, right data types, and well formatted records.
 Next, we'll convert the dataset to a Table to ensure flexibility. For the pupose of this project, we'll give this Table a name called: **Data**.
 
