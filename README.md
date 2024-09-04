@@ -8,10 +8,11 @@ This sales report project aims to provide insights and answers to key business q
 
 ### Objectives
 
+* Explore some functions
 * Perform exploratory data analysis (EDA) to understand the data
 * Analyze sales by country using formulas and pivot tables
-* Identify top-selling products by unit price
-* Detect anomalies in the data
+* Identify 5 top-selling products by unit price
+* Detect anomalies in the data using Boxplot and Scatterplot graph
 * Determine the best salesperson by country
 * Calculate profits by product
 * Generate dynamic country-level sales reports
@@ -19,13 +20,17 @@ This sales report project aims to provide insights and answers to key business q
 
 
 
-Methodology
-Data analysis and visualization using [insert tools/software used]
-Formulas and pivot tables for data manipulation and aggregation
-Data mining techniques for anomaly detection
-Data visualization for effective communication of insights
-Expected Outcomes
-A comprehensive understanding of sales trends and patterns
-Data-driven insights to inform business decisions
-Identification of areas for improvement and opportunities for growth
-Recommendations for product discontinuation and sales strategy optimization
+### Methodology
+
+* Data analysis and visualization using [Microsoft Office Excel 365 with integration of Power Query Capabilities for data modelling]
+* Formulas and pivot tables for data manipulation and aggregation
+* Data mining techniques for anomaly detection
+* Data visualization for effective communication of insights
+
+
+### Expected Outcomes
+
+* A comprehensive understanding of sales trends and patterns
+* Data-driven insights to inform business decisions
+* Identification of areas for improvement and opportunities for growth
+* Recommendations for product discontinuation and sales strategy optimization
