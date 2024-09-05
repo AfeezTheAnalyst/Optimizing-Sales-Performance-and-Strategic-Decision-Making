@@ -165,7 +165,7 @@ Overall, Conditional formatting helps in quickly identifying trends, exception a
 
 __Sales by Country: Using formulas and pivot tables to manipulate and aggregate data__
 =======================================================================================
-![Sales by Country using formular](image_3.png)  
+![Sales by Country using Formular](image_3.png)  
 The figure above displays sales data by country, with columns for "COUNTRY," "AMOUNT," and "UNITS." The formulas you've mentioned, `=SUMIFS(data[Amount],data[Geography],B4#)` and `=SUMIFS(data[Units],data[Geography],B4#)`, are used to summarize this data based on certain conditions. Here’s how these formulas work and what they mean:
 
 ### Explanation of the Formulas
@@ -179,3 +179,33 @@ The figure above displays sales data by country, with columns for "COUNTRY," "AM
 These formulas allow for dynamic calculations based on the list of countries, ensuring that the sums of both sales amounts and units are automatically updated whenever the data changes or new countries are added to the list.
 
 Furthermore, a new column is created between Amount and Unit. This column holds the values in the Amount column, then a Conditional Formatting's Data Bars is used to create a subtled horizontal bar chart to rate the values.
+
+__Anomaly Detection: Identifying unusual patterns or outliers in the data.__
+================================================================================
+![Sales by Country using Pivot Table](image_4.png)  
+
+# Pivot Table Overview
+
+A Pivot Table is a powerful tool used in data analysis to summarize, analyze, explore, and present data. It allows you to extract and organize significant data from a large dataset, typically in a spreadsheet (e.g., Excel, Google Sheets) or a data analysis tool (e.g., Tableau, Power BI).
+
+## Key Concepts of a Pivot Table:
+
+### Rows:
+These are the categories or data fields you want to break down. Each unique value in the row field becomes a row in the pivot table.
+
+**Example:** In a sales dataset, you could use "Product Category" or "Region" as row fields.
+
+### Columns:
+This field organizes the data into columns. The unique values in this field will create different columns in the pivot table.
+
+**Example:** You could use "Month" or "Sales Rep" as columns to compare data.
+
+### Values:
+The data that will be summarized or aggregated. Common operations for values include **Sum**, **Count**, **Average**, **Min**, or **Max**.
+
+**Example:** If analyzing sales data, you may sum up "Sales Amount" or count the number of "Orders."
+
+### Filters:
+This is an optional field to narrow down the data. It allows you to apply filters to the entire Pivot Table.
+
+**Example:** You could filter the data by "Year" to show sales data only for a specific year.
