@@ -56,19 +56,20 @@ __Exploring some functions__
 ==============================
 ![Quick Statistics](image1.png)
 
-=AVERAGE(data[Amount])
-=AVERAGE(data[Units])
-=MEDIAN(data[Amount])
-=MEDIAN(data[Units])
-=MIN(data[Amount])
-=MAX(data[Units])
-=MAX(data[Amount])
-=MAX(data[Units])
-=PERCENTILE.EXC(data[Amount], 0.25)
-=PERCENTILE.EXC(data[Units], 0.25)
-=PERCENTILE.EXC(data[Amount], 0.75)
-=PERCENTILE.EXC(data[Units], 0.75)
-=COUNTA(UNIQUE(data[Product]))
+=AVERAGE(data[Amount])  
+=AVERAGE(data[Units])  
+=MEDIAN(data[Amount])  
+=MEDIAN(data[Units])  
+=MIN(data[Amount])  
+=MAX(data[Units])  
+=MAX(data[Amount])  
+=MAX(data[Units])  
+=PERCENTILE.EXC(data[Amount], 0.25)  
+=PERCENTILE.EXC(data[Units], 0.25)  
+=PERCENTILE.EXC(data[Amount], 0.75)  
+=PERCENTILE.EXC(data[Units], 0.75)  
+=COUNTA(UNIQUE(data[Product]))  
+
 ## Sales Data Statistical Summary
 
 | **Stats Measures**    | **Amount** | **Unit Sales** |
@@ -161,3 +162,7 @@ Based on the screenshot above, we applied conditional formatting applied to the 
 - Another possible application of conditional formatting that might be seen in a fuller view of the data could be highlighting based on the number of units sold, where higher or lower thresholds trigger specific formatting to quickly visualize performance against targets.
 
 Overall, Conditional formatting helps in quickly identifying trends, exception and patterns in data by visually segmenting information based on predefined conditions. This aids in faster decision-making and more effective data presentation during analysis.
+
+__Sales by Country: Using formulas and pivot tables to manipulate and aggregate data__
+=======================================================================================
+
