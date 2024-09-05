@@ -165,4 +165,17 @@ Overall, Conditional formatting helps in quickly identifying trends, exception a
 
 __Sales by Country: Using formulas and pivot tables to manipulate and aggregate data__
 =======================================================================================
+![Sales by Country using formular](image_3.png)  
+The figure above displays sales data by country, with columns for "COUNTRY," "AMOUNT," and "UNITS." The formulas you've mentioned, `=SUMIFS(data[Amount],data[Geography],B4#)` and `=SUMIFS(data[Units],data[Geography],B4#)`, are used to summarize this data based on certain conditions. Here’s how these formulas work and what they mean:
 
+### Explanation of the Formulas
+
+1. **=SUMIFS(data[Amount],data[Geography],B4#)**:
+   - This formula is used to sum up the "Amount" from a range named `data[Amount]` where the corresponding "Geography" matches the countries listed starting from cell B4. The `B4#` indicates a dynamic array reference in newer versions of Excel, automatically expanding to include all the countries listed from B4 downwards.
+
+2. **=SUMIFS(data[Units],data[Geography],B4#)**:
+   - Similar to the first, this formula sums up the "Units" from `data[Units]` where the "Geography" matches the entries starting from B4. Again, the `B4#` signifies a dynamic reference that adapts as the range of countries changes.
+
+These formulas allow for dynamic calculations based on the list of countries, ensuring that the sums of both sales amounts and units are automatically updated whenever the data changes or new countries are added to the list.
+
+Furthermore, a new column is created between Amount and Unit. This column holds the values in the Amount column, then a Conditional Formatting's Data Bars is used to create a subtled horizontal bar chart to rate the values.
